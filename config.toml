@@ -1,0 +1,7 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'my hugo new site'
+theme="paper"
+relativeUrls=true
+
+
